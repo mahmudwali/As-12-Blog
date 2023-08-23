@@ -1,0 +1,3 @@
+Git Repo: https://github.com/mahmudwali/As-12-Blog
+
+Live:  https://as-12-blog.vercel.app/
